@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/RecipeApp/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.1085" />
+        <entry key="..\:/RecipeApp/app/src/main/res/drawable/ic_group.xml" value="0.1085" />
+        <entry key="..\:/RecipeApp/app/src/main/res/drawable/ic_search.xml" value="0.1085" />
+        <entry key="..\:/RecipeApp/app/src/main/res/drawable/ic_thumb_up.xml" value="0.1085" />
+        <entry key="..\:/RecipeApp/app/src/main/res/drawable/ic_time.xml" value="0.1085" />
+        <entry key="..\:/RecipeApp/app/src/main/res/layout/activity_main.xml" value="0.22" />
+        <entry key="..\:/RecipeApp/app/src/main/res/layout/activity_recipe_detail.xml" value="0.18" />
+        <entry key="..\:/RecipeApp/app/src/main/res/layout/list_instruction_step.xml" value="0.25" />
+        <entry key="..\:/RecipeApp/app/src/main/res/layout/list_instruction_step_item.xml" value="0.1" />
+        <entry key="..\:/RecipeApp/app/src/main/res/layout/list_instructions.xml" value="0.22" />
+        <entry key="..\:/RecipeApp/app/src/main/res/layout/list_meal_ingredient.xml" value="0.67" />
+        <entry key="..\:/RecipeApp/app/src/main/res/layout/list_recipe_random.xml" value="0.18" />
+        <entry key="..\:/RecipeApp/app/src/main/res/layout/list_similar_recipe.xml" value="0.5675675675675675" />
+        <entry key="..\:/RecipeApp/app/src/main/res/layout/spinner_inner_text.xml" value="0.22" />
+        <entry key="..\:/RecipeApp/app/src/main/res/layout/spinner_text.xml" value="0.22" />
+        <entry key="..\:/RecipeApp/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.1085" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
